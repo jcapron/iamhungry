@@ -6,9 +6,9 @@ I used Twitter Bootstrap and Punchfork API.
 
 == Screenshots
 
-http://i.imgur.com/QS4Hogt.jpg
+http://i.imgur.com/wKUZMyQ.png
 
-http://i.imgur.com/VKwOR7q.jpg
+http://i.imgur.com/QS4Hogt.jpg
 
 http://i.imgur.com/0WNruzO.jpg
 
