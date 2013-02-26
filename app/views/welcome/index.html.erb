@@ -11,9 +11,11 @@
 	<h3 class="muted" style="padding-bottom: 10px">Here are the result for "<%= params[:search] %>":</h3>
 
 
-	<%= link_to image_tag(@response['recipes'][0]['thumb']), @response['recipes'][0]['source_url'] %>
  
-
+	<% @response['count'].times do |i| %>
+			<%= link_to image_tag(@response['recipes'][i]['thumb']), @response['recipes'][i]['source_url'] %>
+	<% end %>
+	      	   
 	   
 
 	<% end %>
