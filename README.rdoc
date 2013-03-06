@@ -1,8 +1,10 @@
 == I am hungry
 
-This is a simple app to look for recipes to cook.
+This is an app to look for recipes to cook. You enter the ingredients you have and the app will give you a list of images for the recipes.
 
 I used Twitter Bootstrap and Punchfork API.
+
+It has been tested with capybara.
 
 == Screenshots
 
